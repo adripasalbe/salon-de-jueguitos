@@ -33,4 +33,3 @@ volumes:
 networks:
   arcade_net:
     driver: bridge
-
